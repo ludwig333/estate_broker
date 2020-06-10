@@ -1,0 +1,26 @@
+C,BCB,BCB,Bâtisse commerciale/Bureau,CBO,Commercial building/Office
+C,BTC,BAT. TER. COMM.,Bâtisse et terrain commerciaux,COMM. BUI. LAND,Commercial building and land
+C,BVE,BVE,Bâtisse et vente d'entreprise,BBS,Building and business sale
+C,CC,CONDO COMM.,Condo commercial,COMM. CONDO,Commercial condo
+C,LEC,LEC,Location d'espace commercial/Bureau,CRO,Commercial rental space/Office
+C,VEN,VEN,Vente d'entreprise,SAL,Business sale
+F,FER,FERME,Ferme,FAR,Farm
+I,BAI,BAI,Bâtisse industrielle,INB,Industrial building
+I,BTI,BAT. TERR. IND.,Bâtisse et terrain industriels,IND. BUIL. LAND,Industrial building and land
+I,CI,CONDO IND.,Condo industriel,IND. CONDO,Industrial condo
+I,LEI,LOC. ESP. IND.,Location d’espace industriel,IND.SPA.LEASING,Industrial space leasing
+M,2X,2X,Duplex,2X,Duplex
+M,3X,3X,Triplex,3X,Triplex
+M,4X,4X,Quadruplex,4X,Quadruplex
+M,5X,5X,Quintuplex,5X,Quintuplex
+R,AP,AP,Appartement,AP,Apartment
+R,CH,CH,Chalet,CP,Chalet
+R,F,F,Fermette,F,Hobby Farm
+R,LS,LS,Loft/Studio,LS,Loft / Studio
+R,ME,ME,Maison à étages,CT,Two or more storey
+R,MEM,MEM,Maison à un étage et demi,HSH,One-and-a-half-storey house
+R,MM,MM,Maison mobile,MH,Mobile home
+R,MPM,MPM,Maison à paliers multiples,SL,Split-level
+R,PP,PP,Maison de plain-pied,BU,Bungalow
+T,TB,TB,Terre à Bois,TB,Wood lot
+T,TV,TV,Terrain vacant,VL,Vacant lot

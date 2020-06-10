@@ -1,0 +1,36 @@
+ABRI,ABRI D'AUTO,Abri d'auto,CARPORT,Carport,O
+ALLE,ALLÉE,Allée,DRIVEWAY,Driveway,N
+AMEN,AMÉN. TERRAIN,Aménagement du terrain,LANDSCAPING,Landscaping,O
+ANIM,ANIMAUX,Type d'animaux,ANIMAL,Animal types,O
+ARMO,ARMOIRES,Armoires,CUPBOARD,Cupboard,N
+BASS,BASE SS,Base de sous-sol,BASEMENT FOND.,Basement foundation,N
+BATI,BATIMENT,Batiment,BUILDING,Building,O
+CEAU,CHAUFFE-EAU,Chauffe-eau,WATERHEAT,Water heater,O
+CHAU,CHAUFFAGE,Mode de chauffage,HEATING SYSTEM,Heating system,O
+EAU,EAU,Approvisionnement en eau,WATER SUPPLY,Water supply,O
+ENER,ÉNERGIE CHAUF.,Énergie pour le chauffage,HEATING ENERGY,Heating energy,O
+EQUI,ÉQUIPEMENTS DIS,Équipement disponible,EQUIP. AVAIL,Equipment available,O
+EXPL,EXPLOITATION,Exploitation,EXPLOITATION,Exploitation,O
+FACC,FACIL. ACCÈS,Facilité d'accès,EASY ACCESS,Easy access,O
+FENE,FENÊTRES,Fenêtres,WINDOWS,Windows,O
+FOND,FOND,Fondation,FOUNDATION,Foundation,N
+FOPO,FOYERS-POÊLES,Foyers-poêles,HEART STOVE,Hearth stove,O
+GARA,GARAGE,Garage,GARAGE,Garage,O
+GCOM,GENRE COMMERCE,Genre de commerce,KIND COMMERCE,Kind of commerce,O
+LOC,APPAREILS LOC.,Appareils en location,RENTAL APPL.,Rental appliances,O
+MACH,MACHINERIE,Machinerie,EQUIPMENT,Equipment,O
+PARE,REVETEMENTS,Revêtements,SIDING,Siding,O
+PART,PARTICULARITÉS,Particularités,DISTINCT. FEAT.,Distinctive features,O
+PISC,PISCINE,Piscine,POOL,Pool,O
+PROX,PROXIMITÉ,Proximité,PROXIMITY,Proximity,O
+SDB,SDB/S-E,Salle de bains/salle d'eau,BATHR./WASHR,Bathroom / Washroom,O
+SDIS,SERV. DISPO.,Services disponibles,AVAIL. SERVICES,Available services,O
+SS,SOUS-SOL,Sous-sol,BASEMENT,Basement,O
+STAT,STATIONN.,Stationnement,PARKING,Parking,O
+SYEG,SYST. ÉGOUTS,Système d'égouts,SEWAGE SYST.,Sewage system,N
+TCOM,TYPE COMM/IND,Type de commerce/Industrie,TYPE BUSI/IND,Type of business/Industry,O
+TFEN,TYPE FENÊTRES,Type de fenêtre,WINDOW TYPE,Window type,O
+TOIT,TOITURE,Toiture,ROOFING,Roofing,N
+TOPO,TOPOGRAPHIE,Topographie,TOPOGRAPHY,Topography,O
+VUE,VUE,Vue,VIEW,View,O
+ZONG,ZONAGE,Zonage,ZONING,Zoning,O
